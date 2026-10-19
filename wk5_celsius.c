@@ -3,7 +3,9 @@
 float converttocelsius(float fahrenheit);
 
 int main () {
+	
 	float result,fahrenheit;
+	
 	printf("enter the temperature in fahrenheit \t");
 	scanf("%f",&fahrenheit);
 	
