@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 int main () {
 	float units,bill;
+	
 	printf("enter the number of water units consumed: \t");
 	scanf("%f",&units);
+	
 	if(units <=30){
 		bill=units * 20;
 	}
