@@ -1,5 +1,5 @@
-CT100/G/30730/26
-GILBERT MUNENE
+//CT100/G/30730/26
+//GILBERT MUNENE
 #include <stdio.h>
 
 float converttocelsius(float fahrenheit);
