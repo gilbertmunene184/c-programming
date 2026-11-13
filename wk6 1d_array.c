@@ -1,3 +1,5 @@
+GILBERT MUNENE
+CT100/G/30730/26
 //1d array
 #include <stdio.h>
 
