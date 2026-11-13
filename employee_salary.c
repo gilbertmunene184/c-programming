@@ -1,3 +1,5 @@
+//GILBERT MUNENE
+//CT100/G/30730/26
 #include <stdio.h>
 //function prototype
 
