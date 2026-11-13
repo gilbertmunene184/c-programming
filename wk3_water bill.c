@@ -1,3 +1,6 @@
+//GILBERT MUNENE
+//CT1000/G/30730/26
+
 #include <stdio.h>
 
 int main () {
